@@ -1,0 +1,9 @@
+.my-input {
+    border: 4px solid teal;
+    padding: 5px 10px;
+}
+
+.big-input {
+    font-size: 30px;
+    padding: 20px;
+}
